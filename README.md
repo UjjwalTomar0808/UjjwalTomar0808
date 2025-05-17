@@ -1,3 +1,11 @@
+<h1 align="center">Hi👋, I'm Ujjwal Tomar</h1>
+<h3 align="center">Frontend Developer | CSE Student at KIET Group of Institutions</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Passionate+Coder;DSA+Enthusiast;Open+Source+Lover;Learning+Every+Day" alt="Typing SVG" />
+</p>
+
+
 # 💫 About Me:
 🌱 I’m currently learning: Full Stack Web Development and Computer Science fundamentals.<br>🎯 I’m focusing on: Building scalable web apps with MERN stack and improving my problem-solving through DSA.<br>🤝 I’m open to: Internships, freelance projects, and collaborative open-source work.<br>💬 Ask me about: React.js, Node.js, MongoDB, Express, Git, and project structuring.<br>📫 How to reach me: ujjwaltomar.0808@gmail.com<br>📄 Know more about me: <a href="https://drive.google.com/file/d/13SRHvhDcLTwSWxZ_961yBXkf7S2F7MhE/view?usp=drive_link"> View My Resume </a>
 
