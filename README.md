@@ -8,7 +8,7 @@
 <!--- snake -->
 <div align="center">
   <a href="https://github.com/UjjwalTomar0808">
-    <img src="snake.svg" alt="Snake Logo"
+    <img src="snake-dark.svg" alt="Snake Logo"
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
 </div>
